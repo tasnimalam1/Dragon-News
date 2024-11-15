@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co.com/42Rwcmc/swimming.png",
+    "category": "Swimming"
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co.com/LNwMph6/class.png",
+    "category": "Class"
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co.com/wJpdC8t/playground.png",
+    "category": "Play Ground"
+  }
+]
